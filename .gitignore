@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GitHelper/bin/Debug/netstandard2.0
+/SimplifiedVersionControl/bin/Debug
+/SimplifiedVersionControl/obj/Debug
+/.vs/SimplifiedVersionControl/v15
+/.vs/SimplifiedVersionControl/DesignTimeBuild
