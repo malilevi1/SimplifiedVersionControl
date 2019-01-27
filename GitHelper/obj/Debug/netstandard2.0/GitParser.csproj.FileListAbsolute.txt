@@ -1,0 +1,9 @@
+C:\Users\Levi Mali\source\repos\SimplifiedVersionControl\GitHelper\obj\Debug\netstandard2.0\GitParser.csprojAssemblyReference.cache
+C:\Users\Levi Mali\source\repos\SimplifiedVersionControl\GitHelper\obj\Debug\netstandard2.0\GitParser.csproj.CoreCompileInputs.cache
+C:\Users\Levi Mali\source\repos\SimplifiedVersionControl\GitHelper\obj\Debug\netstandard2.0\GitParser.AssemblyInfoInputs.cache
+C:\Users\Levi Mali\source\repos\SimplifiedVersionControl\GitHelper\obj\Debug\netstandard2.0\GitParser.AssemblyInfo.cs
+C:\Users\Levi Mali\source\repos\SimplifiedVersionControl\GitHelper\bin\Debug\netstandard2.0\GitParser.deps.json
+C:\Users\Levi Mali\source\repos\SimplifiedVersionControl\GitHelper\bin\Debug\netstandard2.0\GitParser.dll
+C:\Users\Levi Mali\source\repos\SimplifiedVersionControl\GitHelper\bin\Debug\netstandard2.0\GitParser.pdb
+C:\Users\Levi Mali\source\repos\SimplifiedVersionControl\GitHelper\obj\Debug\netstandard2.0\GitParser.dll
+C:\Users\Levi Mali\source\repos\SimplifiedVersionControl\GitHelper\obj\Debug\netstandard2.0\GitParser.pdb
